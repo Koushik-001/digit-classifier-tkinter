@@ -1,0 +1,5 @@
+#ignore venv
+venv/
+
+#ignore model file
+digit_classifier.h5
